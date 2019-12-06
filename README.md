@@ -139,7 +139,7 @@ sam install assistant
 Then copy the App folder to `/var/lib/snips/skill/` to test: (On Raspberry)
 
 ```bash
-sudo cp -r snips-app-joke-tuto/ /var/lib/snips/skill/
+sudo cp -r snips-app-joke/ /var/lib/snips/skill/
 ```
 
 Check if the `action-app_joke.py` and `setup.sh` has execution rights, if not:
